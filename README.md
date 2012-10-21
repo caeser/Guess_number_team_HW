@@ -6,7 +6,7 @@
 --------
 
  - Linux: 用套件管理員安裝git
- - Windows: 到「http://code.google.com/p/msysgit/downloads/list?q=full+installer+official+git」下載最新版本的msysgit，安裝
+ - Windows: 到「[http://code.google.com/p/msysgit/downloads/list?q=full+installer+official+git](http://code.google.com/p/msysgit/downloads/list?q=full+installer+official+git)」下載最新版本的msysgit，安裝
 
 下載專案
 ----
