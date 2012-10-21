@@ -1,9 +1,10 @@
 import static java.lang.System.out;
+import java.util.Random;
 public class Question
 {
 	public static int[] make()
 	{
-		int ansNumber = (int)(Math.random()*8999)+1000;
+		int ansNumber = (int)((new Random()).nextInt(9000))+1000;
 		int[] ans = toArray(ansNumber,
 				(new int[Integer.toString(ansNumber).length()]), 0);
 		if(check(ans, 0)){
